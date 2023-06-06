@@ -90,7 +90,7 @@
           D = { class: "ico_list" },
           K = ["href"],
           C = (0, c.uE)(
-            '<div class="btns" data-v-0a86b283><a href="https://github.com/AnalytixAudit/Solidity/blob/main/20230602_AnalytixAudit_HongKong%20Doge_HKDOGE_Audit.pdf" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>Audit</p></div></a><a href="https://www.pinksale.finance/launchpad/0xEC6A6e69e58e7B73037aEa036b278005DD2F9FeD?chain=BSC&amp;refId=0xcA86b3Ac18627762590ee90139eB67f0135374d5" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>presale</p></div></a><a href="https://docs.hkdoge.vip/" data-v-0a86b283><div class="btn_item whitepaper" data-v-0a86b283><p class="btn_t" data-v-0a86b283>whitepaper</p></div></a></div>',
+            '<div class="btns" data-v-0a86b283><a href="#" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>Audit</p></div></a><a href="https://www.pinksale.finance/launchpad/0x15eb535b707F3c4A6dAeC7B4c553F331f160A3c3?chain=BSC&refId=0x4ef1f87b5B8042d61361De3cE33dcE1830ADc098" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>presale</p></div></a><a href="#" data-v-0a86b283><div class="btn_item whitepaper" data-v-0a86b283><p class="btn_t" data-v-0a86b283>whitepaper</p></div></a></div>',
             1
           ),
           M = f(() =>
@@ -188,7 +188,7 @@
           ),
           V = { class: "nav" },
           W = (0, c.uE)(
-            '<li data-v-8a23ecea><a href="#about" data-v-8a23ecea>ABOUT</a></li><li data-v-8a23ecea><a href="#HOW" data-v-8a23ecea>HOW TO BUY</a></li><li data-v-8a23ecea><a href="#TOKENOMICS" data-v-8a23ecea>TOKENOMICS</a></li><li data-v-8a23ecea><a href="#ROADMAP" data-v-8a23ecea>ROADMAP</a></li><li data-v-8a23ecea><a class="nav_btn" href="https://pancakeswap.finance/swap?outputCurrency=0xB29fcA944571E857F0DcA789df7c1dF695183B56" data-v-8a23ecea> Buy Now </a></li>',
+            '<li data-v-8a23ecea><a href="#about" data-v-8a23ecea>ABOUT</a></li><li data-v-8a23ecea><a href="#HOW" data-v-8a23ecea>HOW TO BUY</a></li><li data-v-8a23ecea><a href="#TOKENOMICS" data-v-8a23ecea>TOKENOMICS</a></li><li data-v-8a23ecea><a href="#ROADMAP" data-v-8a23ecea>ROADMAP</a></li><li data-v-8a23ecea><a class="nav_btn" href="https://pancakeswap.finance/swap?outputCurrency=0x4418105803933cC59CD2d6EE7836DB7452C4D5E2" data-v-8a23ecea> Buy Now </a></li>',
             5
           ),
           N = [W],
@@ -391,7 +391,7 @@
             Ea +
             '" alt="" data-v-66b2a360></div><div class="container main" data-v-66b2a360><div class="left" data-v-66b2a360><div class="text_tit" data-v-66b2a360><div class="number" data-v-66b2a360>Token Supply:</div><div class="number numberbg" data-v-66b2a360> 420,690,000,000,000 <img src="' +
             wa +
-            '" alt="" data-v-66b2a360></div></div><div class="card" data-v-66b2a360><h3 data-v-66b2a360>LOW Taxes, No Bullshit. It’s that simple.</h3><p data-v-66b2a360>563% of the tokens were sent to the liquidity pool,LP tokens were lock 1 year, and contract is renounced.The remaining 11% of the supply is being held in amulti-sig wallet only to be used as tokens for futurecentralized exchange listings, bridges, and liquidity pools.”</p><br data-v-66b2a360></div></div><div class="riht" data-v-66b2a360><div class="pic" data-v-66b2a360><img src="' +
+            '" alt="" data-v-66b2a360></div></div><div class="card" data-v-66b2a360><h3 data-v-66b2a360>0 Taxe,no token for DEV , No Bullshit. It’s that simple.</h3><p data-v-66b2a360>32.59% of the tokens were sent to the liquidity pool,LP tokens were lock 6 month , and contract is renounced.The remaining 67.2 % of the supply is being for presale , team not have token , all token for listing we will buy from pancakeswap</p><br data-v-66b2a360></div></div><div class="riht" data-v-66b2a360><div class="pic" data-v-66b2a360><img src="' +
             ya +
             '" alt="" data-v-66b2a360></div></div></div>',
           2
@@ -621,8 +621,8 @@
           data() {
             return {
               ico_list: [
-                { href: "https://t.me/HKDogeEntire" },
-                { href: "https://twitter.com/HKDOGECEO" },
+                { href: "https://t.me/hkflokibsc" },
+                { href: "https://twitter.com/hkflokibsc" },
                 { href: "#" },
               ],
             }
@@ -670,17 +670,17 @@
             data() {
               return {
                 ico_list: [
-                  { href: "https://twitter.com/HKDOGECEO" },
-                  { href: "https://t.me/HKDogeEntire" },
+                  { href: "https://twitter.com/hkflokibsc" },
+                  { href: "https://t.me/hkflokibsc" },
                   {
-                    href: "https://www.dextools.io/app/cn/bnb/pair-explorer/0xf21d88df8d95803f1c1fab5a909ee12050c490d0",
+                    href: "https://www.dexview.com/bsc/0x4418105803933cC59CD2d6EE7836DB7452C4D5E2",
                   },
                   {
-                    href: "https://www.dexview.com/bsc/0xB29fcA944571E857F0DcA789df7c1dF695183B56",
+                    href: "https://www.dexview.com/bsc/0x4418105803933cC59CD2d6EE7836DB7452C4D5E2",
                   },
                   { href: "#" },
                   {
-                    href: "https://www.pinksale.finance/launchpad/0xEC6A6e69e58e7B73037aEa036b278005DD2F9FeD?chain=BSC&refId=0xcA86b3Ac18627762590ee90139eB67f0135374d5",
+                    href: "https://www.pinksale.finance/launchpad/0x15eb535b707F3c4A6dAeC7B4c553F331f160A3c3?chain=BSC&refId=0x4ef1f87b5B8042d61361De3cE33dcE1830ADc098",
                   },
                 ],
               }
