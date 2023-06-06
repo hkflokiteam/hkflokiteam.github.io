@@ -188,7 +188,7 @@
           ),
           V = { class: "nav" },
           W = (0, c.uE)(
-            '<li data-v-8a23ecea><a href="#about" data-v-8a23ecea>ABOUT</a></li><li data-v-8a23ecea><a href="#HOW" data-v-8a23ecea>HOW TO BUY</a></li><li data-v-8a23ecea><a href="#TOKENOMICS" data-v-8a23ecea>TOKENOMICS</a></li><li data-v-8a23ecea><a href="#ROADMAP" data-v-8a23ecea>ROADMAP</a></li><li data-v-8a23ecea><a class="nav_btn" href="https://pancakeswap.finance/swap?outputCurrency=0x4418105803933cC59CD2d6EE7836DB7452C4D5E2" data-v-8a23ecea> Buy Now </a></li>',
+            '<li data-v-8a23ecea><a href="#about" data-v-8a23ecea>ABOUT</a></li><li data-v-8a23ecea><a href="#HOW" data-v-8a23ecea>HOW TO BUY</a></li><li data-v-8a23ecea><a href="#TOKENOMICS" data-v-8a23ecea>TOKENOMICS</a></li><li data-v-8a23ecea><a href="#ROADMAP" data-v-8a23ecea>ROADMAP</a></li><li data-v-8a23ecea><a class="nav_btn" href="https://pancakeswap.finance/swap?outputCurrency=0xF729921a232Ad773acDBB3f97D3Fa8DE2741d329" data-v-8a23ecea> Buy Now </a></li>',
             5
           ),
           N = [W],
