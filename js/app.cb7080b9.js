@@ -90,7 +90,7 @@
           D = { class: "ico_list" },
           K = ["href"],
           C = (0, c.uE)(
-            '<div class="btns" data-v-0a86b283><a href="#" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>Audit</p></div></a><a href="https://www.pinksale.finance/launchpad/0x15eb535b707F3c4A6dAeC7B4c553F331f160A3c3?chain=BSC&refId=0x4ef1f87b5B8042d61361De3cE33dcE1830ADc098" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>presale</p></div></a><a href="#" data-v-0a86b283><div class="btn_item whitepaper" data-v-0a86b283><p class="btn_t" data-v-0a86b283>whitepaper</p></div></a></div>',
+            '<div class="btns" data-v-0a86b283><a href="#" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>Audit</p></div></a><a href="https://www.pinksale.finance/launchpad/0xF47915F2a61f48D3fb641A90F589Ff7c71f57608?chain=BSC&refId=0x4ef1f87b5B8042d61361De3cE33dcE1830ADc098" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>presale</p></div></a><a href="#" data-v-0a86b283><div class="btn_item whitepaper" data-v-0a86b283><p class="btn_t" data-v-0a86b283>whitepaper</p></div></a></div>',
             1
           ),
           M = f(() =>
@@ -391,7 +391,7 @@
             Ea +
             '" alt="" data-v-66b2a360></div><div class="container main" data-v-66b2a360><div class="left" data-v-66b2a360><div class="text_tit" data-v-66b2a360><div class="number" data-v-66b2a360>Token Supply:</div><div class="number numberbg" data-v-66b2a360> 420,690,000,000,000 <img src="' +
             wa +
-            '" alt="" data-v-66b2a360></div></div><div class="card" data-v-66b2a360><h3 data-v-66b2a360>0 Taxe,no token for DEV , No Bullshit. It’s that simple.</h3><p data-v-66b2a360>32.59% of the tokens were sent to the liquidity pool,LP tokens were lock 6 month , and contract is renounced.The remaining 67.2 % of the supply is being for presale , team not have token , all token for listing we will buy from pancakeswap</p><br data-v-66b2a360></div></div><div class="riht" data-v-66b2a360><div class="pic" data-v-66b2a360><img src="' +
+            '" alt="" data-v-66b2a360></div></div><div class="card" data-v-66b2a360><h3 data-v-66b2a360>0 Tax,no token for DEV , No Bullshit. It’s that simple.</h3><p data-v-66b2a360>32.59% of the tokens were sent to the liquidity pool,LP tokens were lock 6 month , and contract is renounced.The remaining 67.2 % of the supply is being for presale , team not have token , all token for listing we will buy from pancakeswap</p><br data-v-66b2a360></div></div><div class="riht" data-v-66b2a360><div class="pic" data-v-66b2a360><img src="' +
             ya +
             '" alt="" data-v-66b2a360></div></div></div>',
           2
@@ -673,14 +673,14 @@
                   { href: "https://twitter.com/hkflokibsc" },
                   { href: "https://t.me/hkflokibsc" },
                   {
-                    href: "https://www.dexview.com/bsc/0x4418105803933cC59CD2d6EE7836DB7452C4D5E2",
+                    href: "https://www.dexview.com/bsc/0xF729921a232Ad773acDBB3f97D3Fa8DE2741d329",
                   },
                   {
-                    href: "https://www.dexview.com/bsc/0x4418105803933cC59CD2d6EE7836DB7452C4D5E2",
+                    href: "https://www.dexview.com/bsc/0xF729921a232Ad773acDBB3f97D3Fa8DE2741d329",
                   },
                   { href: "#" },
                   {
-                    href: "https://www.pinksale.finance/launchpad/0x15eb535b707F3c4A6dAeC7B4c553F331f160A3c3?chain=BSC&refId=0x4ef1f87b5B8042d61361De3cE33dcE1830ADc098",
+                    href: "https://www.pinksale.finance/launchpad/0xF47915F2a61f48D3fb641A90F589Ff7c71f57608?chain=BSC&refId=0x4ef1f87b5B8042d61361De3cE33dcE1830ADc098",
                   },
                 ],
               }
