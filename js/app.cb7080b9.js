@@ -676,7 +676,7 @@
                     href: "https://www.dexview.com/bsc/0xF729921a232Ad773acDBB3f97D3Fa8DE2741d329",
                   },
                   {
-                    href: "https://www.dexview.com/bsc/0xF729921a232Ad773acDBB3f97D3Fa8DE2741d329",
+                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xb29259162764a33446af9699434d01e02ac28720",
                   },
                   { href: "#" },
                   {
