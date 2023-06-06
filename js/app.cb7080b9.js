@@ -256,7 +256,7 @@
               z +
               '" alt="" data-v-23ea544b></div><div class="right" data-v-23ea544b><div class="title" data-v-23ea544b><img src="' +
               B +
-              '" alt="" data-v-23ea544b></div><div class="box" data-v-23ea544b><p data-v-23ea544b>Welcome to HKFLOKI. We are a unified collective and community <br data-v-23ea544b> that is for protecting the good, privacy, and freedom of humanity <br data-v-23ea544b> HKFLOKI. Each of us is responsible for architecting the future of <br data-v-23ea544b> the world. Through our combined efforts, we can be a harmonious <br data-v-23ea544b> and collaborative community that helps society revert back to a <br data-v-23ea544b> decentralized world that creates freedom, fairness, and equal <br data-v-23ea544b> opportunity for every citizen regardless of race, status, or wealth.</p></div><div class="dia1" data-v-23ea544b><img src="' +
+              '" alt="" data-v-23ea544b></div><br/><br/><br/><div class="box" data-v-23ea544b><p data-v-23ea544b>Welcome to HKFLOKI. We are a unified collective and community <br data-v-23ea544b> that is for protecting the good, privacy, and freedom of humanity <br data-v-23ea544b> HKFLOKI. Each of us is responsible for architecting the future of <br data-v-23ea544b> the world. Through our combined efforts, we can be a harmonious <br data-v-23ea544b> and collaborative community that helps society revert back to a <br data-v-23ea544b> decentralized world that creates freedom, fairness, and equal <br data-v-23ea544b> opportunity for every citizen regardless of race, status, or wealth.</p></div><div class="dia1" data-v-23ea544b><img src="' +
               J +
               '" alt="" data-v-23ea544b></div></div>',
             2
@@ -673,10 +673,10 @@
                   { href: "https://twitter.com/hkflokibsc" },
                   { href: "https://t.me/hkflokibsc" },
                   {
-                    href: "https://www.dexview.com/bsc/0xF729921a232Ad773acDBB3f97D3Fa8DE2741d329",
+                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xb29259162764a33446af9699434d01e02ac28720",
                   },
                   {
-                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xb29259162764a33446af9699434d01e02ac28720",
+                    href: "https://www.dexview.com/bsc/0xF729921a232Ad773acDBB3f97D3Fa8DE2741d329",
                   },
                   { href: "#" },
                   {
