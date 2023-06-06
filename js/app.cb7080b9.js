@@ -90,7 +90,7 @@
           D = { class: "ico_list" },
           K = ["href"],
           C = (0, c.uE)(
-            '<div class="btns" data-v-0a86b283><a href="#" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>Audit</p></div></a><a href="https://www.pinksale.finance/launchpad/0xF47915F2a61f48D3fb641A90F589Ff7c71f57608?chain=BSC&refId=0x4ef1f87b5B8042d61361De3cE33dcE1830ADc098" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>presale</p></div></a><a href="#" data-v-0a86b283><div class="btn_item whitepaper" data-v-0a86b283><p class="btn_t" data-v-0a86b283>whitepaper</p></div></a></div>',
+            '<div class="btns" data-v-0a86b283><a href="https://github.com/AnalytixAudit/Solidity/blob/main/20230606_AnalytixAudit_HongKong%20FLOKI_HKFLOKI_Audit.pdf" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>Audit</p></div></a><a href="https://www.pinksale.finance/launchpad/0xF47915F2a61f48D3fb641A90F589Ff7c71f57608?chain=BSC&refId=0x4ef1f87b5B8042d61361De3cE33dcE1830ADc098" data-v-0a86b283><div class="btn_item audit" data-v-0a86b283><p class="btn_t" data-v-0a86b283>presale</p></div></a><a href="#" data-v-0a86b283><div class="btn_item whitepaper" data-v-0a86b283><p class="btn_t" data-v-0a86b283>whitepaper</p></div></a></div>',
             1
           ),
           M = f(() =>
